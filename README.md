@@ -1,6 +1,6 @@
 # Awesome Prometheus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Prometheus monitoring resources.
+> Open-source systems monitoring and alerting toolkit.
 
 [Prometheus](https://prometheus.io/) is an open-source metrics and alerting system, part of the CNCF. This list covers PromQL, alerting, exporters, cardinality management, and scaling.
 
